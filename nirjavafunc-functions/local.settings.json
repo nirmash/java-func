@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=techsummitdynaf9880;AccountKey=W208PRkwrFI4DQgCQ/b+QhR18uIHrvPc9NlZ0IbgXopjtYHZ0gQ5GCnUs7dSBffqK6M2sRKaKraNtpZOaS6lXw==;BlobEndpoint=https://techsummitdynaf9880.blob.core.windows.net/;QueueEndpoint=https://techsummitdynaf9880.queue.core.windows.net/;TableEndpoint=https://techsummitdynaf9880.table.core.windows.net/;FileEndpoint=https://techsummitdynaf9880.file.core.windows.net/;",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=techsummitdynaf9880;AccountKey=W208PRkwrFI4DQgCQ/b+QhR18uIHrvPc9NlZ0IbgXopjtYHZ0gQ5GCnUs7dSBffqK6M2sRKaKraNtpZOaS6lXw==;BlobEndpoint=https://techsummitdynaf9880.blob.core.windows.net/;QueueEndpoint=https://techsummitdynaf9880.queue.core.windows.net/;TableEndpoint=https://techsummitdynaf9880.table.core.windows.net/;FileEndpoint=https://techsummitdynaf9880.file.core.windows.net/;"
+  }
+}
